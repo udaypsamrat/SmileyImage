@@ -6,6 +6,9 @@ const Footer = () => {
     <div className="footer">
       <h6> Smiley-image😍</h6>
       <div className="f">
+        <a href="https://www.youtube.com/@smileyimage" target="blank">
+          <i className="fab fa-youtube"></i>
+        </a>
         <a href="https://www.instagram.com/smileyimage" target="blank">
           <i className="fab fa-instagram"></i>
         </a>

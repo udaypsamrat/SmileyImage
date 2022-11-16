@@ -11,6 +11,7 @@ const Photos = () => {
         <img src={require("../../assets/image/3.jpg").default} alt="/" />
         <img src={require("../../assets/image/4.jpeg").default} alt="/" />
         <img src={require("../../assets/image/5.jpeg").default} alt="/" />
+        <img src={require("../../assets/image/6.jpeg").default} alt="/" />
         <img src={require("../../assets/image/7.jpeg").default} alt="/" />
         <img src={require("../../assets/image/8.jpeg").default} alt="/" />
         <img src={require("../../assets/image/9.jpeg").default} alt="/" />
@@ -23,6 +24,18 @@ const Photos = () => {
         <img src={require("../../assets/image/18.jpeg").default} alt="/" />
         <img src={require("../../assets/image/17.jpeg").default} alt="/" />
        <img src={require("../../assets/image/16.jpeg").default} alt="/" />
+       <img src={require("../../assets/image/19.jpeg").default} alt="/" />
+        <img src={require("../../assets/image/20.jpeg").default} alt="/" />
+        <img src={require("../../assets/image/21.jpeg").default} alt="/" />
+        <img src={require("../../assets/image/22.jpeg").default} alt="/" />
+       <img src={require("../../assets/image/23.jpeg").default} alt="/" />
+       <img src={require("../../assets/image/24.jpeg").default} alt="/" />
+       <img src={require("../../assets/image/25.jpeg").default} alt="/" />
+       <img src={require("../../assets/image/26.jpeg").default} alt="/" />
+       <img src={require("../../assets/image/27.jpeg").default} alt="/" />
+       <img src={require("../../assets/image/28.jpeg").default} alt="/" />
+       <img src={require("../../assets/image/29.jpeg").default} alt="/" />
+       <img src={require("../../assets/image/30.jpeg").default} alt="/" />
       </div>
     </div>
   );

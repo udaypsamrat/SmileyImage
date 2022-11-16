@@ -10,12 +10,12 @@ const ContactUs = () => {
         <div className="c-left">
           <div className="insta">
             <a href="https://www.instagram.com/smileyimage" target="blank">
-              instagram <i className="fab fa-instagram"></i>
+               <i className="fab fa-instagram"></i> Instagram 
             </a>
           </div>
           <div className="fb">
             <a href="https://www.facebook.com/imagesmiley" target="blank">
-              facebook <i className="fab fa-facebook"></i>
+              <i className="fab fa-facebook"></i> Facebook 
             </a>
           </div>
         </div>
